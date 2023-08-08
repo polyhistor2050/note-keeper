@@ -12,7 +12,7 @@
   }
   
   header {
-    background-color: #f5ba13;
+    background-color: #a5f52f;
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -25,11 +25,12 @@
   }
   
   footer {
+    background-color: #7bc708;
     position: absolute;
     text-align: center;
     bottom: 0;
     width: 100%;
-    height: 2.5rem;
+    height: 3.5rem;
   }
   
   footer p {
